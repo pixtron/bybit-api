@@ -1,4 +1,6 @@
-# @pxtrn/bybit-api
+# DEPRECATED @pxtrn/bybit-api
+
+**This package has been deprecated and is no longer maintained. Please use [bybit-api](https://github.com/tiagosiebler/bybit-api) from @tiagosiebler**
 
 An unofficial node.js lowlevel wrapper for the Bybit Cryptocurrency Derivative
 exchange API.
